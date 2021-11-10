@@ -49,7 +49,7 @@ Basically, it is the amount of time in seconds for saving a txt file in `Files` 
 
 This Key-logger repository is licensed under "MIT License", so you are free to use it but the owner(s) is/are not responsible for any lose which might happens so. 
 
-Moreover this keylogger is prepared by an Amateur, so should not be entirely trusted, this repository serves like a prototype if you were to make a real keylogger for spying purposes whatever so.
+Moreover this keylogger is prepared by an Amateur, so should not be entirely trusted, this repository serves like a prototype if you were to make a real keylogger
 
 Thank you
 
